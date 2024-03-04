@@ -13,7 +13,7 @@ BOT_NAME = "reitscraper"
 SPIDER_MODULES = ["reitscraper.spiders"]
 NEWSPIDER_MODULE = "reitscraper.spiders"
 
-SCRAPEOPS_API_KEY = "cba6495a-4991-4065-83f3-9df4a7de09d7"
+SCRAPEOPS_API_KEY = ""
 
 SCRAPEOPS_PROXY_ENABLED = False
 
